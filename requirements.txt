@@ -1,1 +1,5 @@
 flask
+numpy
+matplotlib
+scikit-learn
+fpdf
